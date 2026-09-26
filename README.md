@@ -50,29 +50,29 @@ Below is a curated comparison of commercial SaaS products for building AI workfl
 
 ## 🔓 Open-Source GitHub Projects
 
-The visual AI workflow ecosystem is heavily powered by open-source innovation. Below are top open-source projects sorted in descending order by **GitHub Star Count**. ⭐
+The visual AI workflow ecosystem is heavily powered by open-source innovation. Below are top open-source projects sorted in descending order by **GitHub Stars_Count**. ⭐
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation platform with extensive SaaS integrations and native AI/LLM nodes. Self-host for complete data privacy and custom automations. 🔒
-- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   Open-source (Apache 2.0) production platform for LLM applications and agentic workflows featuring visual prompt canvas, RAG knowledge pipelines, and multi-tenant management. 🧠
-- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Leading open-source (MIT) visual framework for AI agents, RAG pipelines, and Model Context Protocol (MCP) servers. Python-backed with drag-and-drop canvas and API export. 🐍
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
   Open-source (Apache 2.0) drag-and-drop UI built for LangChain node flows, LLM agents, and custom tool orchestration. 🎨
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Framework for building stateful, multi-actor LLM applications with cycles, flow control, state persistence, and human-in-the-loop execution. 🔄
-- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
   Mature open-source visual programming tool for event-driven applications, widely extended with community LLM and OpenAI nodes for IoT & AI automations. 🌐
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   Open-source (MIT) no-code business automation framework with 100+ community pieces, AI assistant actions, and zero per-execution self-hosted cost. 🧩
-- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
   Developer-first open-source workflow engine and internal tool builder supporting Python/TypeScript/Go scripts, visual flows, AI steps, and MCP support. 💻
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   Open conversational AI platform and visual execution engine for autonomous chatbots, multi-modal agents, and flow integrations. 💬
-- **[AG2 / AutoGen](https://github.com/ag2ai/ag2)** [![GitHub stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
+- **[AG2 / AutoGen](https://github.com/ag2ai/ag2)** [![GitHub_Stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
   Open-source programming framework for agentic AI enabling multi-agent conversation, autonomous problem solving, and tool execution. 🤖
-- **[CrewAI](https://github.com/crewAIInc/crewai)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewai?style=social&color=white)](https://github.com/crewAIInc/crewai/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewai)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewai?style=social&color=white)](https://github.com/crewAIInc/crewai/stargazers)  
   Cutting-edge open-source framework for orchestrating role-based, autonomous AI agents to collaborate and execute complex multi-step workflows. 👥
 
 ---
@@ -92,7 +92,7 @@ When visual canvases need to be embedded or extended with programmatic control: 
 Contributions are welcome! Please follow these guidelines: ✨
 1. Fork the repository.
 2. Edit `README.md` following the tabular or bullet format.
-3. Ensure all links, pricing details, and star counts are factual and up to date.
+3. Ensure all links, pricing details, and Stars_Counts are factual and up to date.
 4. Submit a Pull Request with a short summary of changes.
 
 ---
